@@ -9,7 +9,7 @@ O exercício consiste em desenvolver um código em JavaScript que obtém a hora 
 ## Como Utilizar
 
 1. Faça o download ou clone este repositório.
-2. Abra o arquivo `index.html` em um navegador da web.
+2. Abra o arquivo `model.html` em um navegador da web.
 3. O sistema verificará automaticamente a hora do sistema e exibirá a mensagem correspondente.
 
 ## Estrutura do Projeto
