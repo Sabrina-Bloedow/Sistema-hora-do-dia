@@ -15,7 +15,7 @@ O exercício consiste em desenvolver um código em JavaScript que obtém a hora 
 ## Estrutura do Projeto
 
 ```plaintext
-|-- exercicio-js-1/
+|-- hora-do-dia/
 |   |-- model.html
 |   |-- script.js
 |   |-- style.css
